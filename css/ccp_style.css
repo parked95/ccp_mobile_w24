@@ -9,7 +9,7 @@
 
   nav li {
 	padding-right: 20px;
-	background-color: #1d1d1d;  
+	background-color: #1d1d1d;
 
 
   }
@@ -24,6 +24,7 @@
  .active {
 	background-color: #6c2a01;
    color: #140101;
+   font-weight: bold;
   }
 
 
